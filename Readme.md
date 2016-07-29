@@ -6,6 +6,7 @@ Generate a map of service frequencies for route segments in a GTFS dataset.
 
 * pyproj
 * shapely
+* colour
 
 ## Running
 
