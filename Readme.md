@@ -24,4 +24,4 @@ optional arguments:
 ```
 ## Example output
 
-[https://gist.github.com/mboos/2886d6094893e99aec07]
+https://gist.github.com/mboos/2886d6094893e99aec07
