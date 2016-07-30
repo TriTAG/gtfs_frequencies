@@ -25,4 +25,6 @@ optional arguments:
 ```
 ## Example output
 
+![Grand River Transit frequency map](https://raw.githubusercontent.com/TriTAG/gtfs_frequencies/master/map_example.png)
+
 https://gist.github.com/mboos/2886d6094893e99aec07
