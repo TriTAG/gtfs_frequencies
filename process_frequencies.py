@@ -15,7 +15,7 @@ from colour import Color
 def get_random_color(pastel_factor=0.5):
     """Generate a random color."""
     return [(x+pastel_factor) / (1.0+pastel_factor)
-            for x in [random.uniform(0, 1, 0) for i in [1, 2, 3]]]
+            for x in [random.uniform(0, 1) for i in [1, 2, 3]]]
 
 
 def color_distance(c1, c2):
